@@ -1,2 +1,2 @@
 # estudos
-Pasta de estudos - Java.
+Repositório utilizado para estudos na linguagem Java
