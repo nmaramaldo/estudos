@@ -1,2 +1,2 @@
 # estudos
-Pasta de estudos - Java
+Pasta de estudos - Java.
